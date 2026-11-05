@@ -27,7 +27,7 @@
   "text": "CC0 1.0"
  },
  "translation": {
-  "count": 331,
+  "count": 329,
   "note": "AI による現代語訳"
  },
  "blocks": [
@@ -7633,6 +7633,7 @@
   "poems": 13,
   "editions": 1,
   "updated": "2026-10-31",
-  "updated_at": "2026-10-31T22:39:17+09:00"
+  "updated_at": "2026-10-31T22:39:17+09:00",
+  "yaku": 329
  }
 }
